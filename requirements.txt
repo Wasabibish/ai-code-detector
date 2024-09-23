@@ -1,0 +1,9 @@
+pandas
+gradio
+matplotlib
+datasets==2.17.0
+openpyxl
+transformers[torch]
+ipywidgets
+transformers==4.38.0
+sentence_transformers==3.0.1
